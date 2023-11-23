@@ -1,0 +1,3 @@
+# Credit-Risk-Analysis
+
+Examining the balance sheet, which included data from the previous year's financial statements, was crucial for providing businesses with valuable insights. It helped navigate potential defaults, as failure to meet debt obligations could lead to a lower credit rating and increased future borrowing costs. Investors preferred companies that displayed financial responsibility, growth potential, and effective scalability. The balance sheet, a key financial tool, offered a snapshot of a company's assets, liabilities, and shareholder investments, playing a significant role in evaluating business performance.
